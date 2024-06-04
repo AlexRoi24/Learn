@@ -2,5 +2,6 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Learn1/FileContentIndex/5550a702-dfb5-4ed4-8983-6c17131a29c9.vsidx
 *.vsidx
+*.wsuo
+*.json
